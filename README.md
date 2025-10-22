@@ -1,5 +1,4 @@
-echo "# DevOps Practice" > 
-# 🐳 DevOps Practice
+
 
 This project contains Docker practice files and configurations.
 
